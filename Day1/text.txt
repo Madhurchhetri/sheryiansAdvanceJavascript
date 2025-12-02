@@ -1,0 +1,3 @@
+jab code chhota hota hain toh hum kuch bhi kar sakte hain bina guideline ke but jab code bada hota hain toh hume guideline follow karna hota hain
+faila hua code objects classes and functions
+modular scalable manable karne se lekar promise karne reuse karne tak kaam ata hain oops
