@@ -1,0 +1,10 @@
+this ek special keyword hota hain this ki value badal jati hai har context ke respect me
+
+global -> window
+function -> window
+es5 function inside object -> object
+es6 function inside object -> window
+es5 function inside es5 function inside  object -> window
+es6 function inside es5 function inside  object -> object
+
+call apply bind
