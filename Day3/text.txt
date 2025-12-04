@@ -1,0 +1,2 @@
+inheritance kya hain 
+agr koi class me kuch kuch likha hain and aap mane hain ki ek nayi class usi ka extension hain toh aap wo sare features purani class se borrow kar sakte haina and new class me fatures use kar sakte hain and apne new featurs bhi add kar sakte ho 
