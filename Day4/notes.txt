@@ -1,0 +1,6 @@
+js -> single threaded
+ek kaam ek baar me kar payegi
+synchronous approach
+asynchronous approach
+
+callback function ek function jo turant nahi chalta ye jab chalega jab aapka koi kaam complete hoga
