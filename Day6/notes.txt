@@ -1,0 +1,8 @@
+promises
+aync await
+setTimeout and setInterval
+
+fetch se kisi bhi url pr ja sakte hain 
+fetch ka data redable nahi hota 
+use redable banane ke liye json banana padta 
+iske baad jo data milta hain wo redable hota hain
