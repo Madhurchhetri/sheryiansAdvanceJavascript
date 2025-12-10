@@ -1,0 +1,10 @@
+introduction erro handling
+common types of errors in javascript - [syntax error, runtime errors,logical errors ]
+understanding the error object - [message, name ,stack]
+handling expception using try-catch, try finally
+how to throw error in javascript
+error handling in asynchronous code
+
+syntax error : aapne code me likhte waqt galti kar di
+runtime error
+logical errors aapke code ko kuxh karna chahiye tha but kuch or karra hain
